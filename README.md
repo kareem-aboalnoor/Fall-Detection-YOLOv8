@@ -45,8 +45,6 @@ It contains images of humans performing falls and normal activities.
 
 ## 🖼️ Example Prediction
 
-> Replace the image below with your own prediction output from the model.
-
 ![image alt](https://github.com/kareem-aboalnoor/Fall-Detection-YOLOv8/blob/6d54e1bed4552d221d5661274a5aada3eb170a12/images/val_batch2_pred.jpg)
 ![image alt](https://github.com/kareem-aboalnoor/Fall-Detection-YOLOv8/blob/6d54e1bed4552d221d5661274a5aada3eb170a12/images/val_batch2_labels.jpg)
 
