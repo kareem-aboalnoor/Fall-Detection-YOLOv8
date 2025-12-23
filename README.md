@@ -1,6 +1,6 @@
 # Fall Detection Using YOLOv8m
 
-![Project Banner](path/to/your/banner-image.png)
+![Project Banner](Screenshot (113).png)
 
 **Real-time fall detection from video using YOLOv8m and OpenCV**
 
