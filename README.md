@@ -1,4 +1,4 @@
-# Fall Detection Using YOLOv8m
+#👁️Fall Detection Using YOLOv8m
 
 ![image alt](https://github.com/kareem-aboalnoor/Fall-Detection-YOLOv8/blob/1476c0483278250c7aaa8d837821b50957082dc9/Screenshot%20(113).png)
 
@@ -51,10 +51,13 @@ It contains images of humans performing falls and normal activities.
 ![image alt](https://github.com/kareem-aboalnoor/Fall-Detection-YOLOv8/blob/6d54e1bed4552d221d5661274a5aada3eb170a12/images/val_batch2_labels.jpg)
 
 ---
+## 4️⃣ Installation
 
-## 🛠️ Installation
+1. **Download or clone the repository** from GitHub.  
+2. Open a terminal/command prompt in the project folder.  
+3. **Create a virtual environment** (recommended):
 
-1️⃣ Clone the repository:
+**Windows**
 ```bash
-git clone https://github.com/USERNAME/Fall-Detection-YOLOv8.git
-cd Fall-Detection-YOLOv8
+python -m venv venv
+venv\Scripts\activate
